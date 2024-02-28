@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>Untitled Document</title>
+
+<link href="../The Weeknd.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#Encabezado {
+    background-color: #920404;
+    height: 75px;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 40px;
+    float: none;
+}
+#menu {
+    background-color: #C30505;
+    height: 75px;
+    width: 100%;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+}
+#cuerpo {
+    background-color: #FFA600;
+    height: 500px;
+    width: 100%;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#pie {
+    background-color: #A03B00;
+    height: 150px;
+    width: 100%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#izquierda {
+    background-color: #0086AF;
+    height: 150px;
+    width: 50%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#derecha {
+    background-color: #FF0004;
+    float: right;
+    height: 150px;
+    width: 50%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#izquierda {
+    background-color: #FF1E1E;
+    float: left;
+    height: 150px;
+    width: 50%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#izborde {
+    background-color: #670001;
+    float: left;
+    height: 75px;
+    width: 25%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#izcentro {
+    background-color: #670001;
+    float: left;
+    height: 75px;
+    width: 25%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#decentro {
+    background-color: #670001;
+    float: left;
+    height: 75px;
+    width: 25%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#derborde {
+    background-color: #670001;
+    height: 75px;
+    width: 25%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#deborde {
+    background-color: #670001;
+    height: 75px;
+    width: 25%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#deborde {
+    background-color: #670001;
+    float: left;
+    height: 75px;
+    width: 25%;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+</style>
+
+</head>
+
+<body>
+<figure>
+  <figcaption></figcaption>
+</figure>
+<div id="contenedor">
+  <div id="Encabezado">Abel Makkonen Tesfaye (The Weeknd)</div>
+  <div id="menu">
+    <div id="izborde">Index</div>
+    <div id="izcentro">Biografía</div>
+    <div id="decentro">Discografía</div>
+    <div id="deborde">XO Merch</div>
+	  
+  </div>
+  <div id="cuerpo"><!-- TemplateBeginEditable name="cuerpo region" -->cuerpo region<!-- TemplateEndEditable --></div>
+  <div id="pie">
+    <div id="izquierda">Jano, Valeria y Regina se resguardan los derechos de autor y no consienten nungún otro uso externo.</div>
+      <div id="derecha">
+        <table width="0" border="1">
+          <tbody>
+            <tr>
+              <td><img src="../instagram.png" width="100" height="100" alt=""/></td>
+              <td><img src="../tiktok logo.png" width="100" height="100" alt=""/></td>
+              <td><img src="../x logo 2.jpg" width="100" height="100" alt=""/></td>
+              <td><img src="../whatsapp.jpg" width="100" height="100" alt=""/></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+  </div>
+</div>
+	
+</div>
+</body>
+</html>
